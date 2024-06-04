@@ -1,0 +1,30 @@
+.box {
+  height: 100px;
+  background-color: blueviolet;
+  margin-bottom: 10px;
+}
+
+/* .text {
+  font-size: 60px;
+}
+.container-lg {
+  height: 100px;
+  background-color: brown;
+}  */
+.content {
+  height: 100px;
+  background-color: rgb(226, 153, 43);
+  margin-top: 30px;
+}
+
+.con {
+  height: 100px;
+  background-color: rgb(226, 55, 43);
+  margin-top: 30px;
+}
+
+.co {
+  height: 100px;
+  background-color: rgb(46, 43, 226);
+  margin-top: 30px;
+}
